@@ -16,7 +16,7 @@ git clone https://github.com/ananabillarizky/ML-15502-UAS.git
 pip install -r requirements.txt
  ```
 
-4. **Jalankan postpartum-depression.ipynb**
+4. **Jalankan Prediction.ipynb**
 
 ## Dataset
-Original dataset bisa ditemukan disini -> [![Linkedin Badge](https://img.shields.io/badge/Kaggle-blue?style=flat&logo=kaggle&logoColor=white)]([https://www.kaggle.com/datasets/parvezalmuqtadir2348/postpartum-depression/data](https://www.kaggle.com/datasets/sazidthe1/global-happiness-scores-and-factors))
+Original dataset bisa ditemukan disini -> [![Linkedin Badge](https://img.shields.io/badge/Kaggle-blue?style=flat&logo=kaggle&logoColor=white)]([https://www.kaggle.com/datasets/sazidthe1/global-happiness-scores-and-factors])

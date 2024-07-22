@@ -5,15 +5,16 @@ Kebahagiaan merupakan indikator penting kesejahteraan individu dan masyarakat, d
 ## Menjalankan secara lokal
 Untuk menjalankan program ini, ikuti langkah berikut:
 1. **Pastikan sudah memiliki python/jupyter notebook**
-2. **Clone repo ini**
- 
-bash
+   
+3. **Clone repo ini** 
+ ```bash
 git clone https://github.com/ananabillarizky/ML-15502-UAS.git
+ ```
 
 3. **Instalasi Dependensi**
- 
-bash
+  ```bash
 pip install -r requirements.txt
+ ```
 
 4. **Jalankan postpartum-depression.ipynb**
 

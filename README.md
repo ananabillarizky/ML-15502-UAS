@@ -19,4 +19,4 @@ pip install -r requirements.txt
 4. **Jalankan Prediction.ipynb**
 
 ## Dataset
-Original dataset bisa ditemukan disini -> [![Linkedin Badge](https://img.shields.io/badge/Kaggle-blue?style=flat&logo=kaggle&logoColor=white)]([https://www.kaggle.com/datasets/sazidthe1/global-happiness-scores-and-factors])
+Original dataset bisa ditemukan disini -> [![Linkedin Badge](https://img.shields.io/badge/Kaggle-blue?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/sazidthe1/global-happiness-scores-and-factors)
